@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/d8tkB4uvd7v2o95bfK/giphy.gif" width="50" height="35"> HEY I'm Jeff
+# <img src="https://media.giphy.com/media/d8tkB4uvd7v2o95bfK/giphy.gif" width="50" height="35"> Hey, I'm Jeff.
 [![My Skills](https://skillicons.dev/icons?i=css,js,typescript,mui)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
